@@ -1173,11 +1173,11 @@ dist_matrix = np.sqrt(np.sum(diff ** 2, axis=-1))
 
 | Notebook | Cells | Concepts | Has Plots |
 |----------|-------|----------|-----------|
-| [`phase-1.ipynb`](phase-1.ipynb) | 16 | Array creation, anatomy, reshape | ❌ |
-| [`phase-2.ipynb`](phase-2.ipynb) | 18 | Indexing, masking, stacking | ❌ |
-| [`phase-3.ipynb`](phase-3.ipynb) | 14 | Broadcasting, analytics, vectors | ✅ Matplotlib |
-| [`phase-4.ipynb`](phase-4.ipynb) | 10 | File I/O, images as arrays | ✅ Image grids |
-| [`numpy_masterclass.ipynb`](numpy_masterclass.ipynb) | 60+ | Everything combined | ✅ Full |
+| [`phase-1.ipynb`](phase-1.ipynb) | 24 | Array creation, anatomy, reshape | ❌ |
+| [`phase-2.ipynb`](phase-2.ipynb) | 20 | Indexing, masking, stacking | ❌ |
+| [`phase-3.ipynb`](phase-3.ipynb) | 22 | Broadcasting, analytics, vectors | ✅ Matplotlib |
+| [`phase-4.ipynb`](phase-4.ipynb) | 14 | File I/O, images as arrays | ✅ Image grids |
+| [`numpy_masterclass.ipynb`](numpy_masterclass.ipynb) | 81 | Everything combined | ✅ Full |
 
 ---
 

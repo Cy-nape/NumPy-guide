@@ -141,3 +141,4 @@ filtered_data = data[mask]
 
 - `ravel()`: Returns a **flattened view** if possible (fast, no memory duplication). Use this by default for performance.
 - `flatten()`: Always allocates and returns an **independent copy**. Use this only if you explicitly need to modify the flattened array without affecting the original.
+
