@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Matplotlib & OS files
+.DS_Store
+.matplotlib/
+*.log
+
+# Temporary / Generated test files from running notebooks
+*.npy
+*.npz
+grades.csv
